@@ -4,6 +4,6 @@
 
 pretty megachad person, ceo of [textbase](https://textbase.us/), a cloud communications platform specialising in voice, text and mfa solutions for businesses.
 
-full-stack web dev working with [angular](https://angular.io), [nextjs](https://nextjs.org) and professional protagonist of advocating against [express-rate-limits](https://www.npmjs.com/package/express-rate-limit) (just use [cloudflare $20](https://cloudflare.com/pricing))
+full-stack web dev working with [angular](https://angular.io), [nextjs](https://nextjs.org) and professional antagonist against [express-rate-limits](https://www.npmjs.com/package/express-rate-limit) (just use [cloudflare $20](https://cloudflare.com/pricing))
 
 👉 [lets connect](https://calendly.com/callumsequoia/chat-with-callum)
