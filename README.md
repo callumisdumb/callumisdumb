@@ -1,6 +1,8 @@
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/474169687287136256"></img>
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/callumisdumb/callumisdumb/main/head.svg" alt="hi" />
+</h1>
 
-### hey there, i'm callum 👋
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/474169687287136256"></img>
 
 pretty megachad person, ceo of [textbase](https://textbase.us/), a cloud communications platform specialising in voice, text and mfa solutions for businesses.
 
