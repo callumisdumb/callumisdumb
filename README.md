@@ -1,6 +1,6 @@
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/callumisdumb/callumisdumb/main/head.svg" alt="hi" />
-  <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,css,cloudflare,discord,angular,aws,gcp,linux,py,ts,stackoverflow,vscode,firebase,mui,figma,git,lua,tailwind&perline=10"></img>
+  <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,css,cloudflare,discord,angular,aws,gcp,linux,py,ts,stackoverflow,vscode,firebase,mui,tailwind,mongodb&perline=20"></img>
 </h1>
 
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/474169687287136256"></img>
