@@ -3,7 +3,7 @@
   <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,css,cloudflare,discord,angular,aws,gcp,linux,py,ts,stackoverflow,vscode,firebase,mui,tailwind,mongodb,react,twitter&perline=20"></img>
 </h1>
 
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/474169687287136256"></img>
+<img align="right" style="padding-bottom:12px;" src="https://lanyard-profile-readme.vercel.app/api/474169687287136256"></img>
 
 pretty megachad person, ceo of [textbase](https://textbase.us/), a cloud communications platform specialising in voice, text and mfa solutions for businesses.
 
