@@ -5,8 +5,8 @@
 
 <img align="right" style="padding-bottom:12px;" src="https://lanyard-profile-readme.vercel.app/api/474169687287136256"></img>
 
-ceo @ [speech labs](https://github.com/Speech-Labs), an ai that uses deep learning and machine learning models to assist people in everyday tasks such as booking reservations, scheduling appointments, and performing many other functions without requiring a human to speak to someone.
+ceo @ [otters uk](https://useotters.com/), a company dedicated to copyright, intellectual property and DMCA takedowns all over the globe.
 
 full-stack web dev working with [angular](https://angular.io), [nextjs](https://nextjs.org) and professional antagonist against [express-rate-limits](https://www.npmjs.com/package/express-rate-limit) (just use [cloudflare $20](https://cloudflare.com/pricing))
 
-👉 [lets connect](callumsequoia@gmail.com)
+👉 [lets connect](mailto:ben@useotters.com)
